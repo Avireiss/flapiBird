@@ -12,7 +12,6 @@ public class Main extends JFrame {
         frame.add(mainMenu);
 
         frame.setVisible(true);
-        System.out.println("k");
     }
 }
 
